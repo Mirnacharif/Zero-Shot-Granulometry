@@ -6,7 +6,7 @@
        width="850">
 </p>
 
-*Graphical abstract based on images from the Deep Granulometry dataset.*
+*Graphical abstract based on image from the Deep Granulometry dataset.*
 
 ## Overview
 
