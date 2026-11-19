@@ -1,5 +1,13 @@
 # Zero-Shot Granulometry Using the Segment Anything Model
 
+<p align="center">
+  <img src="images/graphical_abstract.png"
+       alt="Graphical abstract"
+       width="850">
+</p>
+
+*Graphical abstract based on images from the Deep Granulometry dataset.*
+
 ## Overview
 
 This repository provides the Python implementation of **Zero-Shot Granulometry Using the Segment Anything Model (SAM)**, a methodology for automatic grain segmentation and particle size distribution (PSD) estimation from geological images.
