@@ -13,8 +13,8 @@ Follow these steps to run a first test of the code.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Zero-Shot-Granulometry.git
-cd Zero_Shot_Granulometry
+git clone https://github.com/Mirnacharif/Zero-Shot-Granulometry.git
+cd Zero-Shot-Granulometry
 ```
 
 ### 2. Install dependencies
