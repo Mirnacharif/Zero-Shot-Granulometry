@@ -55,7 +55,7 @@ jupyter notebook
 
 Open `02_SAM-F_predictions.ipynb` and execute the cells sequentially.
 
-**Note:** Ensure that the required dependencies are installed and the pretrained SAM checkpoint is available in the `models/` directory. Segmentation results are saved in the output directory.
+**Note:** Ensure that the required dependencies are installed and the pretrained SAM checkpoint is available in the `models/` directory. 
 
 ## How to Use the Code
 
